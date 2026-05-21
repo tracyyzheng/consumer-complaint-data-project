@@ -65,6 +65,31 @@ Visualizations included:
 - complaint trends over time
 - complaint distribution by state
 - interactive filtering by year
+# Dashboard Preview
+
+## Complaints by Product
+![Pie Chart](Pie%20Chart.png)
+
+## Top Companies by Complaints
+![Column Chart](Clustered%20Column%20Chart.png)
+
+## Complaint Trends Over Time
+![Line Chart](Line%20Chart.png)
+
+## Consumer Complaint Heat Map by State
+![Heat Map](Heat%20Map.png)
+
+# Descriptive Analysis
+
+The consumer complaint dataset revealed several important trends related to financial products and customer issues. Based on the dashboard visualizations, credit reporting and credit repair services generated the highest number of complaints among all product categories. This suggests that consumers experience more issues related to credit reports, incorrect information, and account disputes compared to other financial products.
+
+The clustered column chart showed that a small number of financial companies accounted for a large portion of the complaints in the dataset. This indicates that complaint activity is concentrated among major financial institutions with larger customer bases.
+
+The line chart demonstrated fluctuations in complaint volume over time. Complaint levels generally remained high across multiple years, showing that consumer financial issues continue to be a consistent concern.
+
+The heat map visualization showed that states such as California, Florida, Texas, and New York had the largest concentration of complaints. These states also have larger populations and higher financial activity, which may contribute to the increased number of reported issues.
+
+Overall, the dashboard helped identify patterns in consumer complaints, major product categories associated with disputes, and geographic areas with higher complaint activity. The visualizations made it easier to understand trends and summarize the data in a more meaningful way.
 
 The dashboard was separated into multiple report pages to improve readability and organization.
 
