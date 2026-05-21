@@ -35,6 +35,8 @@ The cleaned dataset was then exported as a CSV file for visualization and report
 
 # Cloud Storage
 
+![S3 Storage](s3_storage.png)
+
 AWS S3 was used to simulate cloud-based storage for the project.  
 Files related to the raw data, transformed data, architecture diagrams, and documentation were uploaded into an S3 bucket.
 
