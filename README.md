@@ -93,6 +93,14 @@ Overall, the dashboard helped identify patterns in consumer complaints, major pr
 
 The dashboard was separated into multiple report pages to improve readability and organization.
 
+# Key Findings
+
+- Credit reporting related products generated the highest number of consumer complaints.
+- Large financial institutions accounted for a significant portion of complaint volume.
+- Complaint activity remained consistently high over multiple years.
+- States such as California, Texas, Florida, and New York showed the largest concentration of complaints.
+- Most complaints were submitted through web-based channels.
+
 ---
 
 # Repository Contents
